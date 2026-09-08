@@ -60,8 +60,8 @@ Hardware Design
 
 This example design is based on an Agilex™ 7 FPGA I-Series Development
 Kit (2x R-Tile and 1x F-Tile) seated into a PCIe x16 slot in a host
-system running a Linux operating system that is supported by Intel®
-Quartus® Prime Pro Edition Version 25.1.1 (or later).
+system running a Linux operating system that is supported by
+Quartus® Prime Pro Edition Version 26.1.
 
 FPGA Device Side
 
