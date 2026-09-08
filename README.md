@@ -109,7 +109,7 @@ environment:
 
   - Instructions for downloading and compiling the etherlink application are included in the steps that follow.
 
-- Intel® Quartus® Prime Pro Edition Programmer version 25.1.1 (or later)
+- Quartus® Prime Pro Edition version 26.1
 
 The remaining instructions assume that the Agilex™ 7 FPGA I-Series
 Development Kit (2x R-Tile and 1x F-Tile) is already installed into the
@@ -120,7 +120,7 @@ Procedure
 Download the High Speed Streaming remote debugging over a PCIe interface
 example design:
 
-[pcie_remote_debug_agx7.qar](./pcie_remote_debug_agx7.qar)
+[pcie_remote_debug_agx7_26_1.qar](./pcie_remote_debug_agx7_26_1.qar)
 
 Use Quartus® Prime Pro to restored archived project.
 
