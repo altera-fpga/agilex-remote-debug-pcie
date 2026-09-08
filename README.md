@@ -25,7 +25,7 @@ custom communication infrastructure:
 
   - This driver is typically available by default.
 
-- R-tile Avalon® Memory-Mapped Intel® FPGA IP for PCI Express
+- R-tile Avalon® Memory-Mapped IP for PCI Express
 
 In the example design, debugging applications (like Signal Tap) run on
 the host machine and communicate with the Streaming Debug server on the
