@@ -25,7 +25,7 @@ custom communication infrastructure:
 
   - This driver is typically available by default.
 
-- R-tile Avalon® Memory-Mapped Intel® FPGA IP for PCI Express
+- R-tile Avalon® Memory-Mapped IP for PCI Express
 
 In the example design, debugging applications (like Signal Tap) run on
 the host machine and communicate with the Streaming Debug server on the
@@ -60,8 +60,8 @@ Hardware Design
 
 This example design is based on an Agilex™ 7 FPGA I-Series Development
 Kit (2x R-Tile and 1x F-Tile) seated into a PCIe x16 slot in a host
-system running a Linux operating system that is supported by Intel®
-Quartus® Prime Pro Edition Version 25.1.1 (or later).
+system running a Linux operating system that is supported by
+Quartus® Prime Pro Edition Version 26.1.
 
 FPGA Device Side
 
@@ -109,7 +109,7 @@ environment:
 
   - Instructions for downloading and compiling the etherlink application are included in the steps that follow.
 
-- Intel® Quartus® Prime Pro Edition Programmer version 25.1.1 (or later)
+- Quartus® Prime Pro Edition version 26.1
 
 The remaining instructions assume that the Agilex™ 7 FPGA I-Series
 Development Kit (2x R-Tile and 1x F-Tile) is already installed into the
@@ -120,7 +120,7 @@ Procedure
 Download the High Speed Streaming remote debugging over a PCIe interface
 example design:
 
-[pcie_remote_debug_agx7.qar](./pcie_remote_debug_agx7.qar)
+[pcie_remote_debug_agx7_26_1.qar](./pcie_remote_debug_agx7_26_1.qar)
 
 Use Quartus® Prime Pro to restored archived project.
 
